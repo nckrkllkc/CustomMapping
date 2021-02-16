@@ -6,7 +6,7 @@ namespace CustomMapping
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Custom Mapping!");
+            Console.WriteLine("Custom Mapping for Entity Framework");
         }
     }
 }
